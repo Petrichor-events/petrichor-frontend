@@ -10,10 +10,10 @@
     <Navbar />
     <div class="background-gradient"></div>
     <div class="background-image">
-        <img src="/src/routes/webpagebg_2.png" alt="Petrichor Background" />
+        <img src="/src/assets/webpagebg_2.png" alt="Petrichor Background" />
     </div>
 	<div class="petrichor-logo">
-        <img src="/src/routes/petrichor_1.png" alt="Petrichor Logo" />
+        <img src="/src/assets/petrichor_1.png" alt="Petrichor Logo" />
 	</div>
     <div class="text">
         <div class="heading">
@@ -58,7 +58,7 @@
     .background-image {
         position: absolute;
         top: 97px;
-        left: 810px;
+        left: 820px;
         width: 613.578px;
         height: 836px;
         z-index: -1;
