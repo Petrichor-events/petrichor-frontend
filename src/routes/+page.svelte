@@ -58,8 +58,8 @@
     .background-image {
         position: absolute;
         top: 97px;
-        left: 640px;
-        width: 1000px;
+        left: 810px;
+        width: 613.578px;
         height: 836px;
         z-index: -1;
     }
